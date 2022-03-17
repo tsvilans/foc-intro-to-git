@@ -5,7 +5,10 @@ class TomSvilans():
         self.age = 200
 
     def function(self):
-        return 1 + 1
+        return 1 + 2
+
+    def function2(self):
+        return 3 * 3
 
     def start(self):
         print ("start it up")
